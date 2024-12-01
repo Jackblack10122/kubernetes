@@ -1,0 +1,1 @@
+scp masternode1@172.21.225.42:~/.ssh/id_rsa* C:\Users\jacks\OneDrive\Documents\"ssh keys"
